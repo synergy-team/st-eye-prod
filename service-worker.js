@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/st-eye-prod/precache-manifest.d6a33870892c5172551c88f7a471edcf.js"
+  "/st-eye-prod/precache-manifest.78f0d7e685af13d69ff4fbe7b4d1d9ad.js"
 );
 
 workbox.clientsClaim();
