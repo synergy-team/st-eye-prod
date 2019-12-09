@@ -1,15 +1,23 @@
 {
-  "main.css": "/st-eye-prod/static/css/main.933b10e9.chunk.css",
-  "main.js": "/st-eye-prod/static/js/main.06b75a1b.chunk.js",
-  "main.js.map": "/st-eye-prod/static/js/main.06b75a1b.chunk.js.map",
-  "runtime~main.js": "/st-eye-prod/static/js/runtime~main.73dbda24.js",
-  "runtime~main.js.map": "/st-eye-prod/static/js/runtime~main.73dbda24.js.map",
-  "static/js/2.042dd70b.chunk.js": "/st-eye-prod/static/js/2.042dd70b.chunk.js",
-  "static/js/2.042dd70b.chunk.js.map": "/st-eye-prod/static/js/2.042dd70b.chunk.js.map",
-  "index.html": "/st-eye-prod/index.html",
-  "precache-manifest.78f0d7e685af13d69ff4fbe7b4d1d9ad.js": "/st-eye-prod/precache-manifest.78f0d7e685af13d69ff4fbe7b4d1d9ad.js",
-  "service-worker.js": "/st-eye-prod/service-worker.js",
-  "static/css/main.933b10e9.chunk.css.map": "/st-eye-prod/static/css/main.933b10e9.chunk.css.map",
-  "static/media/analytics.svg": "/st-eye-prod/static/media/analytics.a203d5f4.svg",
-  "static/media/dispatching.svg": "/st-eye-prod/static/media/dispatching.7a07babb.svg"
+  "files": {
+    "main.css": "/st-eye-prod/static/css/main.8fa579d1.chunk.css",
+    "main.js": "/st-eye-prod/static/js/main.1ee0277c.chunk.js",
+    "main.js.map": "/st-eye-prod/static/js/main.1ee0277c.chunk.js.map",
+    "runtime-main.js": "/st-eye-prod/static/js/runtime-main.f857497b.js",
+    "runtime-main.js.map": "/st-eye-prod/static/js/runtime-main.f857497b.js.map",
+    "static/js/2.d1083f4c.chunk.js": "/st-eye-prod/static/js/2.d1083f4c.chunk.js",
+    "static/js/2.d1083f4c.chunk.js.map": "/st-eye-prod/static/js/2.d1083f4c.chunk.js.map",
+    "index.html": "/st-eye-prod/index.html",
+    "precache-manifest.2a6d2914a9687ade333cf3ad194ea332.js": "/st-eye-prod/precache-manifest.2a6d2914a9687ade333cf3ad194ea332.js",
+    "service-worker.js": "/st-eye-prod/service-worker.js",
+    "static/css/main.8fa579d1.chunk.css.map": "/st-eye-prod/static/css/main.8fa579d1.chunk.css.map",
+    "static/media/analytics.svg": "/st-eye-prod/static/media/analytics.a203d5f4.svg",
+    "static/media/dispatching.svg": "/st-eye-prod/static/media/dispatching.7a07babb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f857497b.js",
+    "static/js/2.d1083f4c.chunk.js",
+    "static/css/main.8fa579d1.chunk.css",
+    "static/js/main.1ee0277c.chunk.js"
+  ]
 }
